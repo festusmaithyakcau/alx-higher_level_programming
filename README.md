@@ -42,7 +42,7 @@ using project-based peer learning. For more information, visit
 [this link](https://www.alxafrica.com/software-engineering/).
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnanodegree.alxafrica.com%2Fabout%2F&psig=AOvVaw3V0l32tsPt4mAgAdgVGT6e&ust=1678628375915000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKifypSA1P0CFQAAAAAdAAAAABAE"
+  <img src="https://cdn.movemeback.com/media/thumbnails/images/alx-organisation-logo-20190916-00002391/f6313bbddaca8b63d28b26a7b02bc3c7.jpg"
        alt="ALX School logo"
   >
 </p>
