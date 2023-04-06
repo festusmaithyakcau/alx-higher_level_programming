@@ -94,3 +94,5 @@ how to use the special `__str__` and `__repr__` methods.
   * Solutions are printed one per line in the format `[[r, c], [r, c], [r, c],
   [r, c]]` where `r` and `c` represent the row and column, respectively, where a
   queen must be placed.
+  
+  
