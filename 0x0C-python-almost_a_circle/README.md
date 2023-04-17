@@ -24,7 +24,7 @@ The multi-level classes involved utilizing these Python tools:
   * [test_rectangle.py](./tests/test_models/test_rectangle.py)
   * [test_square.py](./tests/test_models/test_square.py)
 
-## Classes :cl:
+## Classes :
 
 ### Base
 Represents the "base" class for all other classes in the project. Includes:
