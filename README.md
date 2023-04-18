@@ -23,7 +23,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :Festus Maithya:
 
-* **Festus Maithya** <[festusmaithyakcau](https://github.com/festusmaithyakcau)>
+* **Festus Maithya** [festusmaithyakcau](https://github.com/festusmaithyakcau)
 
 ## Acknowledgements :pray:
 
