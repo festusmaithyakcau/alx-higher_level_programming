@@ -88,7 +88,7 @@ Prototypes for functions written in this project:
   * [8-uppercase.py](./8-uppercase.py): Python function that prints a string in
   uppercase followed by a new line.
   * Using no more than two `print` functions and one loop.
-  * Without importing modules or using `str.upper()` or `str.isupper()`.
+  * Without importing inbuilt modules or using `str.upper()` or `str.isupper()`.
 
 * **9. There are only 3 colors, 10 digits, and 7 notes; its what we do with them that's important**
   * [9-print_last_digit.py](./9-print_last_digit.py): Python function that prints the last
@@ -102,7 +102,7 @@ Prototypes for functions written in this project:
 
 * **11. a ^ b**
   * [11-pow.py](./11-pow.py): Python function that returns `a` to the power of `b`.
-  * Without importing modules.
+  * Without importing inbuilt modules.
 
 * **12. Fizz Buzz**
   * [12-fizzbuzz.py](./12-fizzbuzz.py): Python function that prints the numbers from
@@ -118,7 +118,7 @@ Prototypes for functions written in this project:
   * If the function fails, returns `NULL`.
   * Otherwise, returns the address of the new node.
   * Helper files:
-    * [linked_lists.c](./linked_lists.c): C functions handling linked lists for testing
+    * [linked_lists.c](./linked_lists.c): C functions handling linked lists for testing the files
     [13-insert_number.c](./13-insert_number.c) (provided by Holberton School).
     * [lists.h](./lists.h): Header file containing definitions and prototypes for
     all types and functions used in [linked_lists.c](./linked_lists.c) and
