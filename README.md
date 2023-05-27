@@ -19,6 +19,8 @@ scripting. The specific list of projects contained follows:
 * [0x0A. Python - Inheritance](./0x0A-python-inheritance)
 * [0x0B. Python - Input/Output](./0x0B-python-input_output)
 * [0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle)
+* [0x0D. SQL_introduction](./0x0D-SQL_introduction)
+* [0x0E. SQL_more_queries](./0x0E-SQL_more_queries)
 
 
 ## Author :Festus Maithya:
