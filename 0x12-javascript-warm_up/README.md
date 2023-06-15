@@ -1,6 +1,6 @@
 # Javascript - Warm up
 
-This was the first JavaScript project I completed at Holberton. Tasks involved
+This was the first JavaScript project I completed at ALX SE Program. Tasks involved
 writing various introductory-level JavaScript scripts on Node.js.
 
 ## Function Prototypes :floppy_disk:
@@ -17,7 +17,7 @@ Prototypes for functions written in this project:
 
 * **0. First constant, first print**
   * [0-javascript_is_amazing.js](./0-javascript_is_amazing.js): JavaScript script
-  that creates a constant variable `myVar` with the value `'Javascript is amazing'`.
+  that creates a constant variable `myVar` with the value `'JavaScript is amazing'`.
   * Usage: `./0-javascript_is_amazing.js`
 
 * **1. 3 languages**
@@ -26,7 +26,7 @@ Prototypes for functions written in this project:
   * Usage: `./1-multi_languages.js`
   * Line 1: `'C is fun'`.
   * Line 2: `'Python is cool'`.
-  * Line 3: `'Javascript is amazing'`.
+  * Line 3: `'JavaScript is amazing'`.
 
 * **2. Arguments**
   * [2-arguments.js](./2-arguments.js): JavaScript script that prints a message
@@ -60,7 +60,7 @@ Prototypes for functions written in this project:
   * Usage: `./6-multi_languages_loop.js`
   * First line: `'C is fun'`.
   * Second line: `'Python is cool'`.
-  * Third line: `'Javascript is awesome'`.
+  * Third line: `'JavaScript is awesome'`.
 
 * **7. I love C**
   * [7-multi_c.js](./7-multi_c.js): JavaScript script that prints `x` times `'C is fun'`.
